@@ -1,0 +1,4 @@
+[submodule "demo/vue"]
+	path = demo/vue
+	url = https://github.com/stevecl/vue-demo.git
+	branch = test
